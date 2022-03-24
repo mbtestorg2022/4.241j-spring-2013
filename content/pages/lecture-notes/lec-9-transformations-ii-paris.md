@@ -20,7 +20,7 @@ The ascent of Louis Napoleon in 1848 changed the economic formula by which moder
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 9 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit4_241js13_handout9)
+[Handout for Lecture 9 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit4_241js13_handout9)
 
 *   Page 1: Development in Pairs from the seventeenth to nineteenth century
 *   Page 2: Network of streets implemented, thick and inherited streets, thin (Georges-Eugène Haussmann)

@@ -18,7 +18,7 @@ The idea of an ecological city which stresses sustainability has not been as pro
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 24 (PDF - 6.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout24)
+[Handout for Lecture 24 (PDF - 6.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout24)
 
 *   Pages 1–4: Beinart, Julian. "The American Downtown: Stories for the Present." _Institute for Urban Design_, 2001. (unpublished)
 *   Pages 4–8: Transcript from Panel Symposium, "Will Information Technology Help Improve City and Regional Form?" April 12, 2001.

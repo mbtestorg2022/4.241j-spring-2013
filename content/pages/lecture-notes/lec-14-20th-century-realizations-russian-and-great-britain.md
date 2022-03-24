@@ -20,7 +20,7 @@ Following the success of the October 1917 revolution, Russian architects and pla
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 14 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout14)
+[Handout for Lecture 14 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout14)
 
 *   Page 1: Mossovet and Sakulin plans for Moscow
 

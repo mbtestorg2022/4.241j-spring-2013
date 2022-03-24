@@ -18,7 +18,7 @@ The set of cases of the machine model extend from the third century BC to contem
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 3 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout3)
+[Handout for Lecture 3 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout3)
 
 *   Page 1: Five sites of the machine model on a westward trajectory from the third century BC to today
 *   Page 2: Excerpt from "Southwest Washington in Plans"

@@ -20,7 +20,7 @@ The contemporary city has public and private streets, public law courts with str
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 22 (PDF - 3.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout22)
+[Handout for Lecture 22 (PDF - 3.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout22)
 
 *   Page 1: List of attitudes to and practices regarding the past
 *   Page 2–3: Introduction on the history and memory as presented in the 1994 Jerusalem Seminar on Architecture

@@ -18,7 +18,7 @@ For architects who proposed new alternatives for the modern city, the stress was
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 13 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout13)
+[Handout for Lecture 13 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout13)
 
 *   Page 1: Timeline of eighteenth to twentieth century urban utopianism
 

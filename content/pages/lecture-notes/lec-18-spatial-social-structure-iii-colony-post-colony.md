@@ -20,7 +20,7 @@ A brief look at the case of the reforming of a previously colonial Spanish city,
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 18 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout18)
+[Handout for Lecture 18 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout18)
 
 *   Page 1: The 2,000-mile ribbon of paired cities on the Mexican/American border
 

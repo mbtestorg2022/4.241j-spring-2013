@@ -18,7 +18,7 @@ From many of these countries, the idea of building new capital cities after inde
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 25 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout25)
+[Handout for Lecture 25 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout25)
 
 *   Page 1: Map of 35 largest cities in the world
 

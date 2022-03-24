@@ -22,7 +22,7 @@ The invention of "advocacy," professionals using their expertise in favor of tho
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 15 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout15)
+[Handout for Lecture 15 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout15)
 
 *   Page 1: Summary of commentaries about the views of Robert Moses from 1975
 

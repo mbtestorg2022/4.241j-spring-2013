@@ -18,7 +18,7 @@ Institutional expression changes from the display of public violence, such as to
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 12 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout12)
+[Handout for Lecture 12 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout12)
 
 *   Page 1: Peter's Nevsky Prospekt in modern-day St. Petersburg
 

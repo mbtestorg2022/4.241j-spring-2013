@@ -20,7 +20,7 @@ Barcelona was a walled medieval city and the center of industrial development in
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 10 (PDF - 5.5MB)]({{< baseurl >}}/resources/mit4_241js13_handout10)
+[Handout for Lecture 10 (PDF - 5.5MB)]({{< baseurl >}}/resources/mit4_241js13_handout10)
 
 *   Page 1: Seven sectors of the Vienna Ringstrasse from the Danube
 *   Page 2: Aerial photo of Cerdà's Ensanche and the old city in Barcelona

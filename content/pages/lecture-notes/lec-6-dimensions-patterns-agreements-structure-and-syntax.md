@@ -34,12 +34,12 @@ Referenced Texts
 
 Alexander, Christopher. _A New Theory of Urban Design_ Oxford University Press, 1987, pp. 14–5. ISBN: 9780195037531. \[Preview with [Google Books](http://books.google.com/books?id=M-TwV7wz3KIC&pg=PA14=onepage)\]
 
-Fig.7 from Habraken, N. John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Control of Complexity." (PDF - 2.4MB)](http://www.habraken.com/html/downloads/control_of_complexity.pdf) _Places_ 4, no. 2 (1987): 3–15.
+Fig.7 from Habraken, N. John. ["The Control of Complexity." (PDF - 2.4MB)](http://www.habraken.com/html/downloads/control_of_complexity.pdf) _Places_ 4, no. 2 (1987): 3–15.
 
 Martin, Leslie. _Urban Space and Structures (Cambridge Urban and Architectural Studies)_. Cambridge University Press, 1975, pp. 20–1. ISBN: 9780521099349.
 
 Fig. 1, 4, 5, and 7 from "[From Research to Design: Re-engineering the Space of Trafalgar Square](http://gisweb.massey.ac.nz/topic/Spatial_Syntax/wbrefs/Space Syntax Laboratory - from research to design.htm)."
 
-Martin, Leslie. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In _Urban Space and Structures_. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
+Martin, Leslie. ["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In _Urban Space and Structures_. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
 
 [« Previous]({{< baseurl >}}/pages/lecture-notes/lec-5-descriptive-and-functional-theory) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-7-the-early-cities-of-capitalism)

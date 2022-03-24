@@ -22,7 +22,7 @@ The fourth set of propositions regards the city as a field of forces, a communic
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 5 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout5)
+[Handout for Lecture 5 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout5)
 
 *   Page 1: Components of descriptive and functional theories
 *   Page 2: On "reading" the city (John Ruskin v. Friedrich Engels)

@@ -18,7 +18,7 @@ Three cases are examined to locate these principles in practice. In the first ca
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 4 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit4_241js13_handout4)
+[Handout for Lecture 4 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit4_241js13_handout4)
 
 *   Page 1: Components of the cosmic model
 *   Page 2: The Valley Section (Patrick Geddes)

@@ -18,7 +18,7 @@ Chicago is a case study of a city first dedicating itself to assembling capital 
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 11 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout11)
+[Handout for Lecture 11 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout11)
 
 *   Page 1: Comparison of different city form typologies (London Square, Paris Boulevard, Vienna—_Gruppenhaus_, _hof_, Barcelona Block, Sunnyside Gardens "Superblock") with the German _Siedlung_
 *   Page 2: Hoyt's cycles of land value and building construction in Chicago from 1830–1930
