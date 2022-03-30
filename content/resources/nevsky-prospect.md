@@ -9,6 +9,7 @@ image_metadata:
     to highlight important features of the city to students.
   credit: ''
   image-alt: Diagram of the Nevsky Prospect with annotations.
+parent_uid: 2b26cddf-bfc9-b0b7-7eed-b81aa4a46280
 resourcetype: Image
 title: nevsky-prospect.jpg
 uid: 0f1b7af7-7bb6-5184-331c-87e1763ff5fd

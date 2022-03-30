@@ -8,6 +8,7 @@ image_metadata:
     and practice.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Professor sitting in his office.
+parent_uid: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
 resourcetype: Image
 title: 4-241J-insights.png
 uid: 14fce5ba-6c4a-59ca-3dc8-b1974150a004

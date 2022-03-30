@@ -52,7 +52,7 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [11.001J/4.250J _Intro to Urban Design and Development_](/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/) (undergraduate) or
+*   [11.001J/4.250J _Intro to Urban Design and Development_](/courses/11-001j-introduction-to-urban-design-and-development-spring-2006) (undergraduate) or
 *   11.301J /4.252J _Intro to Urban Design and Development_ (graduate)
 
 ### Requirements Satisfied

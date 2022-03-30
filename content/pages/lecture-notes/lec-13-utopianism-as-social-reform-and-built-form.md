@@ -6,7 +6,7 @@ title: 'Lec 13: Utopianism as Social Reform and Built Form'
 uid: d6a347b7-7065-0787-6c78-66849dfe1604
 ---
 
-[« Previous](/courses/architecture/4-241j-theory-of-city-form-spring-2013/lecture-notes/lec-12-transformations-v-panopticism-st.-petersburg-and-berlin) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-14-20th-century-realizations-russian-and-great-britain)
+{{% resource_link "59854ea2-e3c7-fc39-2c3a-01f7203d35b3" "« Previous" %}} | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-14-20th-century-realizations-russian-and-great-britain)
 
 Lecture Summary
 ---------------
@@ -38,4 +38,4 @@ Examples, Precedents, and Works
 
 Familistery of Guise; Phalanstery (Charles Fourier); Shakers settlement; Rappites migration; Oneida community (Humphrey Noyes); Mormon spatial program; Theosophists traditions; Fountain Grove (Thomas Lake Harris); Llano del Rio (California, United States); Kronenberg (Germany); Saltair, and Port Sunlight (England); Les Villes tentaculaires, Algiers, Ville Contemporaine, Voisin, ASCORAL (Le Corbusier)
 
-[« Previous](/courses/architecture/4-241j-theory-of-city-form-spring-2013/lecture-notes/lec-12-transformations-v-panopticism-st.-petersburg-and-berlin) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-14-20th-century-realizations-russian-and-great-britain)
+{{% resource_link "59854ea2-e3c7-fc39-2c3a-01f7203d35b3" "« Previous" %}} | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-14-20th-century-realizations-russian-and-great-britain)

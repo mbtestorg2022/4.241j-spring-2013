@@ -6,7 +6,7 @@ title: 'Lec 11: Transformations IV: Chicago'
 uid: fe50cbfd-0b24-dfc3-aad6-79ef305c43c4
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-10-transformations-iii-vienna-and-barcelona) | [Next »](/courses/architecture/4-241j-theory-of-city-form-spring-2013/lecture-notes/lec-12-transformations-v-panopticism-st.-petersburg-and-berlin)
+[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-10-transformations-iii-vienna-and-barcelona) | {{% resource_link "59854ea2-e3c7-fc39-2c3a-01f7203d35b3" "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -37,4 +37,4 @@ Examples, Precdents, and Works
 
 Map of Illinois (La Honton, 1703); World's Columbian Exhibition in Chicago (1893); Transportation Building (Alder & Sullivan); Administration Building (Richard Morris Hunt); Women's Building (Sophia Hayden); Manufactures Building (Robert Swain Peabody); Ferris Wheel (George Washington Gale Ferris, Jr.); Midway Plaisance, Cairo Street, Florence Hotel, and the Arcade (Chicago, Illinois, United States); proposed grid plan (Ludwig Hilberseimer)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-10-transformations-iii-vienna-and-barcelona) | [Next »](/courses/architecture/4-241j-theory-of-city-form-spring-2013/lecture-notes/lec-12-transformations-v-panopticism-st.-petersburg-and-berlin)
+[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-10-transformations-iii-vienna-and-barcelona) | {{% resource_link "59854ea2-e3c7-fc39-2c3a-01f7203d35b3" "Next »" %}}

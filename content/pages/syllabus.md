@@ -21,7 +21,7 @@ Students are given required and background reading material for each session as 
 Prerequisites
 -------------
 
-[_11.001J / 4.250J Introduction to Urban Design and Development_](/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/) (for undergraduates), or  
+[_11.001J / 4.250J Introduction to Urban Design and Development_](/courses/11-001j-introduction-to-urban-design-and-development-spring-2006) (for undergraduates), or  
 _11.301J / 4.252J Introduction to Urban Design and Development_ (for graduates)
 
 Grading

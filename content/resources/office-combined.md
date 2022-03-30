@@ -9,6 +9,7 @@ image_metadata:
     to his belief in continuous learning through reading.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Books lining the hallway and bookshelves on an office.
+parent_uid: 2b26cddf-bfc9-b0b7-7eed-b81aa4a46280
 resourcetype: Image
 title: office-combined.jpg
 uid: 6a22d9a4-46ed-087e-e108-502f739a5322
